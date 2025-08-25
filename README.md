@@ -1,2 +1,2 @@
 # Home
-self-study   Naveen Kumar
+self-study  <br> Naveen Kumar
